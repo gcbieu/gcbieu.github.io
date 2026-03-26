@@ -21,7 +21,7 @@ Bem-vindo ao meu repositório de portfólio! Este projeto foi desenvolvido para 
 ## 🚀 Como visualizar
 
 O projeto está disponível através do GitHub Pages. Você pode acessá-lo aqui:
-[https://gcbieu.github.io/meu-portfolio/](https://gcbieu.github.io/meu-portfolio/)
+[https://gcbieu.github.io/meu-portfolio/](https://gcbieu.github.io/meu_portfolio/)
 
 ---
 Desenvolvido com 💜 por Gabriel Oliveira.
